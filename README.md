@@ -1,1 +1,10 @@
+The Gaming Room is a game development company, that wantedto developed a web-based game that was similar to their preexisitng game, Draw It Or Lose It. Draw it or Lose It is a multiplayer, team-based game that was only available on Android app store. The Gaming Room wanted to branch out and allow the game to be played on multiple platforms, while keeping many of the same function of the orginial game. 
+
+In the creation of the software design document, the thing I did well, I believe, is in keeping the Gaming Room's overall needs in mind when developing solutions to their sturggles. I interpreted that they wanted their development to be seamless(as there would be a learning curve for their developers) and cost-effective. So I tried to stay mindful of things like budget and team capabilities, while also allowing alternatives if any lee way could be found in either or of these places. This allowed me to focus on finding the best solutions to any of their development concerns. I also think I did fairly well in keeping the terminology simple, and easy to understand for non-developers looking into the software design process.
+
+I would like to revise the section that explores the different operating systems avaialble. I think I could have gone into greater depth, to bring a more clear undertanding of the options they would have available to them. I would have also like to have placed a bit more focus on the security aspect of their development project. As a multiplayer game I fee lthis is a major piece to get a hold of and would have like to have been more deligient of how that could be applied in the operating system I recommended.
+
+In the fuutre, I think taking the step by step approach of considering the overall needs of any development project alongside the cliends specifications, is most useful. Breaking down each part of the clients needs and concerns, and keeping a working knowledge of different operating platforms and how they can improve of prove to be detrimental to these needs is whats most important in ensuring that designing software is effiencent and affective in meeting its goal.
+
+
 # CS230-TheGameRoom
